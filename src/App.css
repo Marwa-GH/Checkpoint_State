@@ -1,0 +1,47 @@
+
+.App {
+  text-align: center;
+}
+h2{
+  color: red;
+}
+.ghazouani{
+  text-align: center;
+}
+button{
+  font-size: large;
+  color: blue;
+  
+  text-align: center;
+  background-color: rgb(246, 244, 248);
+}
+.Marwa{
+  background-color: rgb(200, 166, 120);
+  padding: 30px 30px 5px 30px;
+  border: 5px solid aqua;
+  font-size: 14px;
+text-align: center;
+  margin: 35px 50px 15px 50px;
+  box-sizing: border-box;
+  font-family: Permanent Marker;
+}
+
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
